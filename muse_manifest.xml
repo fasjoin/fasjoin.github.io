@@ -1,0 +1,26 @@
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="fasjoin.com" resolutions="1x" timestamp="1614591279911">
+  <folder name="images">
+    <file name="favicon.ico" crc="136795345" ref="index"/>
+  </folder>
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="4097034477" ref="index"/>
+  </folder>
+  <folder name="fonts">
+    <file name="balootamma2-extrabold.woff" crc="3945785669"/>
+    <file name="balootamma2-extrabold.eot" crc="4097087647"/>
+    <file name="balootamma2-extrabold.svg" crc="4117897153"/>
+    <file name="sacramento-regular-webfont.woff" crc="4221919244"/>
+    <file name="sacramento-regular-webfont.eot" crc="73825827"/>
+    <file name="sacramento-regular-webfont.svg" crc="3949969114"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="340535759" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="4286661555" ref="index"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index"/>
+    <file name="require.js" crc="7928878" ref="index"/>
+  </folder>
+  <file name="index.html" crc="4105510102" seo="true" mt="1614591132776" redirect="true"/>
+</manifest>
