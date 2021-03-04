@@ -1,10 +1,13 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="fasjoin.com" resolutions="1x" timestamp="1614591279911">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="fasjoin.com" resolutions="1x" timestamp="1614883101327">
   <folder name="images">
     <file name="favicon.ico" crc="136795345" ref="index"/>
+    <file name="fevicon.jpg" crc="4004699943" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="4097034477" ref="index"/>
+    <file name="index.css" crc="3872238823" ref="index"/>
   </folder>
   <folder name="fonts">
     <file name="balootamma2-extrabold.woff" crc="3945785669"/>
@@ -21,6 +24,7 @@
     <file name="museconfig.js" crc="4286661555" ref="index"/>
     <file name="jquery.watch.js" crc="51536988" ref="index"/>
     <file name="require.js" crc="7928878" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index"/>
   </folder>
-  <file name="index.html" crc="4105510102" seo="true" mt="1614591132776" redirect="true"/>
+  <file name="index.html" crc="86160812" seo="true" mt="1614880237511" redirect="true"/>
 </manifest>
